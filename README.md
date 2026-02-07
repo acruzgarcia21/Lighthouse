@@ -17,6 +17,8 @@ The goal of this project is experimentation and learning rather than producing a
 - Assets and scenes may be rough, incomplete, or experimental.
 - The focus is on learning and exploration rather than polish.
 
+<img width="1920" height="1080" alt="Lighthouse" src="https://github.com/user-attachments/assets/aca886db-17c3-4add-ba81-a5ea05697a59" />
+
 ## Tools
 - Blender
 
